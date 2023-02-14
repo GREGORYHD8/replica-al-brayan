@@ -1,0 +1,4 @@
+https://api.whatsapp.com/send/?phone=18093307011&text=Hola%2C+quiero+m%C3%A1s+informaci%C3%B3n+de+este+proyecto&type=phone_number&app_absent=0
+
+https://th.bing.com/th/id/R.7a6b5e589513651f593f2df499a7755f?rik=CuneYLM7MtotkQ&riu=http%3a%2f%2fblogs.pechanga.com%2fnewsroom%2fwp-content%2fuploads%2f2018%2f09%2f2018_0329-TheCove_9.jpg&ehk=4uB7JdLrvYrBOSzuqHZERywNHCxXzh45noVI1XH%2fKLc%3d&risl=&pid=ImgRaw&r=0
+
