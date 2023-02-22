@@ -4,7 +4,38 @@
 
 body {
 	background-color: rgb(26, 26, 26);
-	
+}
+
+.fondo1 {
+	background-image: url(ImgsV8/resort.jpg);
+	width: 1366px;
+	height: 768px;
+	margin-bottom: 20px;
+	/*
+	max-width: 1920px;
+	max-height: 1080px;
+	*/
+}
+
+.fondo2 {
+	background-image: url(ImgsV8/playa.jpeg);
+	width: 1366px;
+	height: 768px;
+	margin-top: 25px;
+	/*
+	max-width: 1920px;
+	max-height: 1080px;
+	*/
+}
+
+.nav1 {
+	background-color: rgb(26, 26, 26);
+	width: 980px;
+	height: 80px;
+	margin: auto;
+	margin-top: -700px;
+	text-align: center;
+	font-size: 17px; 
 }
 
 img {
@@ -27,7 +58,9 @@ img {
 
 .botonwhats{
 	color: lime;
-	font-size: 80px;
-	margin-top: 200px;
-	margin-right: 50px;
+	font-size: 60px;
+	margin-left: 50px;
 }
+
+
+
