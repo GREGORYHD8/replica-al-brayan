@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: rgb(26, 26, 26);
+	background-color: white;
 }
 
 .fondo1 {
@@ -11,25 +11,16 @@ body {
 	width: 1366px;
 	height: 768px;
 	margin-bottom: 20px;
-	/*
-	max-width: 1920px;
-	max-height: 1080px;
-	*/
 }
 
 .fondo2 {
 	background-image: url(ImgsV8/playa.jpeg);
 	width: 1366px;
 	height: 768px;
-	margin-top: 25px;
-	/*
-	max-width: 1920px;
-	max-height: 1080px;
-	*/
 }
 
-.nav1 {
-	background-color: rgb(26, 26, 26);
+.nav-off {
+	background-color: white;
 	width: 980px;
 	height: 80px;
 	margin: auto;
@@ -38,9 +29,13 @@ body {
 	font-size: 17px; 
 }
 
-img {
-	width: 1366px;
-	height: 768px;
+.home {
+	width: 150px;
+	height: 80px;
+	display: block;
+	margin-left: 11px;
+
+	margin-bottom: -25px;
 }
 
 .tema1 {
@@ -55,12 +50,3 @@ img {
 	text-align: center;
 	margin-top: -35px;
 }
-
-.botonwhats{
-	color: lime;
-	font-size: 60px;
-	margin-left: 50px;
-}
-
-
-
