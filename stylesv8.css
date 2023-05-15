@@ -95,3 +95,37 @@ body {
 	margin-top: -35px;
 	font-size: 22px;
 }
+
+.sub-img1 {
+	background-image: url(ImgsV8/m1.jpeg);
+	width: 450px;
+	height: 400px;
+	margin-left: 100px;
+	margin-top: 71px;
+}
+
+.cont-sub1 {
+	width: 550px;
+	height: 400px;
+	margin-left: 700px;
+	margin-top: -388px;
+	background-color: ;
+}
+
+.tit-sub1 {
+	font-size: 26px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.txt-sub1 {
+	font-size: 20px;
+	text-align: justify;
+}
+
+.info-sub1 {
+	background-color:;
+	width: 150px;
+	height: 50px;
+	align-items: center;
+}
