@@ -1,7 +1,13 @@
 * {
 	scroll-behavior: auto;
 }
-
+/*
+@media only screen and(max-widht: 800px) {
+	body {
+		display: block;
+	}
+}
+*/
 body {
 	background-color: white;
 }
@@ -15,8 +21,15 @@ body {
 .fondo2 {
 	background-image: url(ImgsV8/playa.jpeg);
 	width: 1366px;
+	height: 1450px;
+	margin-top: 200px;
+}
+
+.fondo3 {
+	background-color: white;
+	width: 1366px;
 	height: 768px;
-	margin-top: 500px;
+	margin-top: 100px;
 }
 
 .nav-off {
@@ -83,16 +96,17 @@ body {
 
 .tema1 {
 	font-family: ;
-	color: rgb(0, 80, 255);
+	color: #248592;
 	text-align: center;
 	font-size: 35px;
 	margin-top: 780px;
 }
 
 .txt1 {
-	color: black;
+	color: #252525;
 	text-align: center;
 	margin-top: -35px;
+	margin: 0px 0px 15px;
 	font-size: 22px;
 }
 
@@ -109,29 +123,33 @@ body {
 	height: 400px;
 	margin-left: 700px;
 	margin-top: -388px;
-	background-color: ;
 }
 
 .tit-sub1 {
 	font-size: 26px;
 	margin-bottom: 50px;
 	text-align: center;
+	color: #252525;
 }
 
 .txt-sub1 {
 	font-size: 20px;
 	text-align: justify;
+	color: #252525;
+	margin: 0px 0px 15px;
 }
 
 .info-sub1 {
-	background-color:;
+	background-color: white;
+	margin: 0px 10px 15px 0px;
+	margin-left: 225px;
 	width: 150px;
 	height: 50px;
 	align-items: center;
 }
 
 .bene-money {
-	margin-top: -680px;
+	margin-top: -1400px;
 	text-align: center;
 	font-size: 70px;
 	color: white;
@@ -147,15 +165,122 @@ body {
 }
 
 .cont-bene1 {
-	background-color: grey;
+	background-color: #637935;
 	width: 349px;
 	height: 333px;
 	margin-left: 499px;
 	margin-top: -335px;
+	padding-left: 11px;
+	padding-right: 11px;
 }
 
 .txt-bene1 {
+	padding-top: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 21px;
 	color: white;
+}
+
+.bene2 {
+	background-image: url(ImgsV8/m3.jpeg);
+	width: 339px;
+	height: 298px;
+	margin-left: 875px;
+	margin-top: -335px;
+}
+
+.cont-bene2 {
+	background-color: #d8d0d5;
+	width: 339px;
+	height: 298px;
+	margin-left: 875px;
+	padding-top: 50px;
+	padding-left: 11px;
+	padding-right: 11px;
+}
+
+.tema-bene {
+	font-size: 26px;
+	text-align: center;
+}
+
+.txt-bene2 {
+	text-align: center;
+	font-size: 21px;
+	color: #252525;
+}
+
+.bene3 {
+	background-image: url(ImgsV8/m4.jpeg);
+	width: 350px;
+	height: 413px;
+	margin-left: 500px;
+	margin-top: -240px;
+}
+
+.cont-bene3 {
+	background-color: #ece9e4;
+	width: 350px;
+	height: 413px;
+	margin-left: 150px;
+	margin-top: -415px;
+	padding-top: 100px;
+	padding-left: 11px;
+	padding-right: 11px;
+}
+
+.tema-bene {
+	font-size: 26px;
+	text-align: center;
+}
+
+.txt-bene3 {
+	text-align: center;
+	font-size: 21px;
+	color: #252525;
+}
+
+.bene4 {
+	background-image: url(ImgsV8/m5.jpeg);
+	width: 348px;
+	height: 332px;
+	margin-left: 150px;
+	margin-top: 25px;
+}
+
+.cont-bene4 {
+	background-color: #331f14;
+	width: 348px;
+	height: 332px;
+	margin-left: 498px;
+	margin-top: -330px;
+	padding-left: 11px;
+	padding-right: 11px;
+}
+
+.txt-bene4 {
+	padding-top: 100px;
+	text-align: center;
+	font-size: 21px;
+	color: white;
+}
+
+.cont-apart {	width: 600px;
+	height: 300px;
+	margin: auto;
+	margin-top: -750px;
+}
+
+.apart {
+	color: #248592;
+	margin: 0px 0px 15px;
+	font-size: 62px;
+	text-align: center;
+}
+
+.txt-apart {
+	color: #252525;
+	margin: 0px 0px 15px;
+	text-align: center;
+	font-size: 21px;
 }
